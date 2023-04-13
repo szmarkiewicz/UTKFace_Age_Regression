@@ -1,7 +1,9 @@
-# Face recognition web app
+# Face recognition web app with age and gender prediction
 
-In the project UTKFace datasets are used for model training. (https://susanqq.github.io/UTKFace/)  
-The main goal of the project is to estimate age of a person based on image. During the course of development we have implemented gender detection model, although its evaluation was abandoned due to insatisfactory results.
+The main goal of the project is to estimate age of a person based on image. During the course of development we have implemented gender detection model, although its 
+evaluation was abandoned due to insatisfactory results.
+In the project UTKFace datasets are used for model training. (https://susanqq.github.io/UTKFace/)
+
 
 Different approaches:
 1. Convolutional Neural Networks
