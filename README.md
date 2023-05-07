@@ -18,7 +18,7 @@ The application itself may process the face of the person in real time by analyz
 ## Dataset analysis:
 `dataset_descriptive_statistics.ipynb`
 
-## Convolutiona neural networks: /machine_learning_report.pdf
+## Convolutiona neural networks:
 `/cnn/utk_age_cnn.ipynb`
 
 ## MobileNet and ResNet architectures: 
@@ -26,4 +26,3 @@ The application itself may process the face of the person in real time by analyz
 
 ## Documentation:
 `/machine_learning_report.pdf`
-/machine_learning_report.pdf
